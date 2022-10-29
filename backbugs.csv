@@ -1,0 +1,47 @@
+﻿"ID","Title","Automation Type","Created By","Created On","Estimate","Expected Result","Forecast","Goals","Mission","Preconditions","Priority","References","Section","Section Depth","Section Description","Section Hierarchy","Steps","Steps","Steps (Additional Info)","Steps (Expected Result)","Steps (References)","Steps (Shared step ID)","Steps (Step)","Suite","Suite ID","Template","Type","Updated By","Updated On"
+"C45","Home page - upper left icon functionality"," None","Bartosz Hałasowski","10/29/2022 6:34 PM","","","","","","User is on BackBugs homepage","Low","","Homepage","0","","Homepage","1. User clicks upper left icon
+Expected Result:
+User is redirected to ""Home"" page","","1.","1. User is redirected to ""Home"" page","1.","1.","1. User clicks upper left icon","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 6:36 PM"
+"C46","BackBugs - Menu button"," None","Bartosz Hałasowski","10/29/2022 6:36 PM","","","","","","User is on BackBugs homepage","High","","Homepage","0","","Homepage","1. User clicks ""Menu"" button in top-right corner
+Expected Result:
+Menu is expanded","","1.","1. Menu is expanded","1.","1.","1. User clicks ""Menu"" button in top-right corner","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 6:36 PM"
+"C54","Watch Video button functonality"," None","Bartosz Hałasowski","10/29/2022 7:23 PM","","","","","","User is on BackBugs homepage","Medium","","Homepage","0","","Homepage","1. User clicks ""Watch video"" button
+Expected Result:
+User is redirected to Youtube page","","1.","1. User is redirected to Youtube page","1.","1.","1. User clicks ""Watch video"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 7:23 PM"
+"C55","""Read Blog"" button functionality"," None","Bartosz Hałasowski","10/29/2022 7:26 PM","","","","","","User is on BackBugs homepage","Medium","","Homepage","0","","Homepage","1. User clicks ""Read Blog"" button
+Expected Result:
+User is redirected to ""BackBugs - blog"" page","","1.","1. User is redirected to ""BackBugs - blog"" page","1.","1.","1. User clicks ""Read Blog"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 7:26 PM"
+"C56","""About us"" button functonality"," None","Bartosz Hałasowski","10/29/2022 7:28 PM","","","","","","User is on BackBugs homepage","Medium","","Homepage","0","","Homepage","1. User clicks ""About us"" button
+Expected Result:
+User is redirected to ""About - BackBugs"" page","","1.","1. User is redirected to ""About - BackBugs"" page","1.","1.","1. User clicks ""About us"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 7:28 PM"
+"C47","BackBugs menu - ""home"" button"," None","Bartosz Hałasowski","10/29/2022 6:38 PM","","","","","","User is on BackBugs homepage
+Menu is expanded
+","High","","BackBugs menu","0","","BackBugs menu","1. User clicks ""home"" button
+Expected Result:
+User is redirected to BackBugs homepage","","1.","1. User is redirected to BackBugs homepage","1.","1.","1. User clicks ""home"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 6:44 PM"
+"C48","BackBugs menu - ""About"" button"," None","Bartosz Hałasowski","10/29/2022 6:41 PM","","","","","","User is on BackBugs homepage
+Menu is expanded
+
+","High","","BackBugs menu","0","","BackBugs menu","1. User clicks ""About"" button
+Expected Result:
+User is redirected to ""About"" page","","1.","1. User is redirected to ""About"" page","1.","1.","1. User clicks ""About"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 6:43 PM"
+"C49","BackBugs menu - ""blog"" button"," None","Bartosz Hałasowski","10/29/2022 6:43 PM","","","","","","User is on BackBugs homepage
+Menu is expanded","High","","BackBugs menu","0","","BackBugs menu","1. User clicks ""blog"" button
+Expected Result:
+User is redirected to ""Blog - BackBugs"" page","","1.","1. User is redirected to ""Blog - BackBugs"" page","1.","1.","1. User clicks ""blog"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 6:43 PM"
+"C50","BackBugs menu - ""Contact"" button"," None","Bartosz Hałasowski","10/29/2022 6:46 PM","","","","","","User is on BackBugs homepage
+Menu is expanded","High","","BackBugs menu","0","","BackBugs menu","1. User clicks ""contact"" button
+Expected Result:
+User is redirected to ""Contact - BackBugs"" page","","1.","1. User is redirected to ""Contact - BackBugs"" page","1.","1.","1. User clicks ""contact"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 6:46 PM"
+"C51","BackBugs menu - ""Youtube"" button"," None","Bartosz Hałasowski","10/29/2022 6:49 PM","","","","","","User is on BackBugs homepage
+Menu is expanded","Medium","","BackBugs menu","0","","BackBugs menu","1. User clicks ""Youtube"" button
+Expected Result:
+User is redirected to Youtube page","","1.","1. User is redirected to Youtube page","1.","1.","1. User clicks ""Youtube"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 7:23 PM"
+"C53","BackBugs menu - ""X"" button"," None","Bartosz Hałasowski","10/29/2022 6:52 PM","","","","","","User is on BackBugs homepage
+Menu is expanded","Medium","","BackBugs menu","0","","BackBugs menu","1. User clicks ""X"" button
+Expected Result:
+Menu is closing","","1.","1. Menu is closing","1.","1.","1. User clicks ""X"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 6:52 PM"
+"C52","BackBugs menu - ""Github"" button"," None","Bartosz Hałasowski","10/29/2022 6:50 PM","","","","","","User is on BackBugs homepage
+Menu is expanded","Medium","","BackBugs menu","0","","BackBugs menu","1. User clicks ""Github"" button
+Expected Result:
+User is redirected to Github page","","1.","1. User is redirected to Github page","1.","1.","1. User clicks ""Github"" button","Master","S3","Test Case (Steps)","Functional","Bartosz Hałasowski","10/29/2022 7:24 PM"
