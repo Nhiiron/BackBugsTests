@@ -8,8 +8,6 @@ Backbgus is a block dedicated to the topic of application performance. It makes 
 <img title="BackBugs" alt="BackBugs" src="https://github.com/Nhiiron/BackBugsTests/blob/main/backbugs02.PNG">
 <img title="BackBugs" alt="BackBugs" src="https://github.com/Nhiiron/BackBugsTests/blob/main/backbugs03.PNG">
 <img title="BackBugs" alt="BackBugs" src="https://github.com/Nhiiron/BackBugsTests/blob/main/backbugs04.PNG">
-.PNG">
-
 
 ## Goal
 
